@@ -1,0 +1,38 @@
+{
+  "name": "Cara Daftar ID",
+  "short_name": "Cara Daftar ID",
+  "start_url": "https://www.caradaftar.id/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#C51162",
+  "description": "Sebuah Situs yang berisikan Informasi Lowongan kerja terbaru dari berbagai Kota Industri yang ada di Indonesia serta Lowongan Kerja BUMN, CPNS, BANK dan PT.",
+  "icons": [{
+    "src": "http://4.bp.blogspot.com/-EZdEMq06Ato/XaR3tSIM6RI/AAAAAAAAA5E/6a4ko5jOAIAWmudmOZ5WQPEdPsuv3m72wCK4BGAYYCw/s400/icons8-c%252B%252B-48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "http://2.bp.blogspot.com/-zfZyLb_Wq_k/XaR4BsetDQI/AAAAAAAAA5Q/hQtPrEpRXrMOuiKsvcLJrk-xo3lhTgZQQCK4BGAYYCw/s400/icons8-c%252B%252B-72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "http://4.bp.blogspot.com/-f02R4gxu1_E/XaR4OtdXBXI/AAAAAAAAA5g/k1lHtxMx7JM8jR2ieQhhVmJ8oOCr08s2QCK4BGAYYCw/s400/icons8-c%252B%252B-96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "http://4.bp.blogspot.com/-hyDWYriTJFE/XaR4eu7zFyI/AAAAAAAAA5w/kN97KEBqdmI2o3FiOJ06mUclEyTGiGbAACK4BGAYYCw/s400/icons8-c%252B%252B-144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "http://3.bp.blogspot.com/-GxCqaipQdcs/XaR4xu6WHZI/AAAAAAAAA58/v-oDGkfaUq4Oc-EpXnsnr3Y7YZjf6viawCK4BGAYYCw/s400/icons8-c%252B%252B-168.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "http://2.bp.blogspot.com/-Gt8LJEF8lF4/XaR43f9yYkI/AAAAAAAAA6E/4ZQuLpvczKsXu6hDDkU31OvgwpHZvWMkgCK4BGAYYCw/s400/icons8-c%252B%252B-192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "http://3.bp.blogspot.com/-FurPkgHtk08/XaR5FHlktTI/AAAAAAAAA6M/wocOQI0y5ckBkAxMQVmL8wdpHDHj-9qrwCK4BGAYYCw/s320/icons8-c%252B%252B-512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
